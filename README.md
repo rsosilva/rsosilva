@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsosilva
-- 👀 I’m interested in programing computer
+- 👀 I’m interested in programing languages
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
